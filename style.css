@@ -1,0 +1,85 @@
+body {
+  background-image: linear-gradient(black,black),
+  url('images/kamran-abdullayev-9V1cYW4JIfQ-unsplash.jpg');
+  background-blend-mode: saturation;
+  background-color: black;
+  font-family: Roboto;
+  color: rgb(255, 255, 255);
+  font-size:medium;
+  line-height:small;
+  /* opacity: 0.9; */
+  /* filter: grayscale(15); */
+}
+
+/* body::before {
+  filter: grayscale(70%);
+  background-image: url('images/kamran-abdullayev-9V1cYW4JIfQ-unsplash.jpg')
+} */
+
+h1 h2 h3 {
+  color: rgb(255, 255, 255);
+  font-size:small;
+  line-height: normal;
+  ;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.container {
+  text-align: center;
+}
+
+#img-circle {
+  border-radius: 50%;
+  border:solid rgb(68, 68, 68) 0px;
+  margin:50px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  font-size: 140px;
+  color: white
+}
+
+.texte {
+  color: white;
+}
+
+#interests {
+  font-size: 100px;
+}
+
+#name {
+  font-size: 60px;
+  font-family: "Noto Sans JP", "sans-serif";
+}
+
+.socials {
+  font-size: 40px;
+  font-weight: 600;
+letter-spacing: 5px;
+
+}
+
+.image {
+
+  padding: 0px;
+  margin: 0px;
+
+}
+
+.stylenamen {
+  font-size: 30px;
+  margin: 0;
+  padding: 0%;
+}
+
+.mysocials {
+
+  margin: 50px;
+ 
+}
